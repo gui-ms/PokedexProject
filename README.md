@@ -1,6 +1,8 @@
 # Description
 Pokedex created for the DIO + Rihappy frontend bootcamp. You can access it through this [link](https://gui-ms.github.io/PokedexProject/)
+
 Clicking the Pokémon card will play the cry they make in the games! Put your headphones and have fun!
+
 A few of the concepts put into this project include media queries, access to api, dynamic creation of html elements, object manipulation, etc.
 
 # Screenshots
